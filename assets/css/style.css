@@ -24,7 +24,7 @@ header h1 {
 .seo {
   color: #d9dcd6;
 }
-
+/* created a nav style for navigation section */
 nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -46,7 +46,7 @@ a {
 p {
   font-size: 16px;
 }
-
+/* rename the hero to home-image to be more descriable */
 .home-image {
   height: 800px;
   width: 100%;
@@ -82,7 +82,7 @@ p {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #2589bd;
 }
-
+/* united the benefits to one class style */
 .benefit-item {
   margin-bottom: 32px;
   color: #ffffff;
@@ -98,7 +98,7 @@ p {
   margin: 10px auto;
   max-width: 150px;
 }
-
+/* united the contents to one class style */
 .content-item {
   margin-bottom: 20px;
   padding: 50px;
